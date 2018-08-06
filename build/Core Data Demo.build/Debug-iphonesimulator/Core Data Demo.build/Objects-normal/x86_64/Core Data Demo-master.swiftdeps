@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "f364913b6c2f09bc5fa4cc7689ae2ae7"
+build_time: [1533587036, 203213000]
+inputs:
+  "/Users/patrickPatricklober/Documents/XCodeProjects/Core Data Demo/Core Data Demo/ViewController.swift": [1526807155, 0]
+  "/Users/patrickPatricklober/Documents/XCodeProjects/Core Data Demo/Core Data Demo/AppDelegate.swift": [1526800679, 0]
+  "/Users/patrickPatricklober/Documents/XCodeProjects/Core Data Demo/build/Core Data Demo.build/Debug-iphonesimulator/Core Data Demo.build/DerivedSources/CoreDataGenerated/Core_Data_Demo/Users+CoreDataClass.swift": [1533587035, 0]
+  "/Users/patrickPatricklober/Documents/XCodeProjects/Core Data Demo/build/Core Data Demo.build/Debug-iphonesimulator/Core Data Demo.build/DerivedSources/CoreDataGenerated/Core_Data_Demo/Users+CoreDataProperties.swift": [1533587035, 0]
+  "/Users/patrickPatricklober/Documents/XCodeProjects/Core Data Demo/build/Core Data Demo.build/Debug-iphonesimulator/Core Data Demo.build/DerivedSources/CoreDataGenerated/Core_Data_Demo/Core_Data_Demo+CoreDataModel.swift": [1533587035, 0]
